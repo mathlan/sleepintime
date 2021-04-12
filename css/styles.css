@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+/*font-family: 'Dancing Script', cursive;*/
+
+body {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+}
+
+h1 {
+  color:#4848c2;
+  font-size: 2.5rem;
+}
+
+h2 { 
+  text-decoration: solid;
+}
+
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- NAVBAR -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- */
+
+.bg-nav {
+  background: #4848c2;
+  background-image: -webkit-linear-gradient(top, #4848c2, #313131);
+  background-image: -moz-linear-gradient(top, #4848c2, #313131);
+  background-image: -ms-linear-gradient(top, #4848c2, #313131);
+  background-image: -o-linear-gradient(top, #4848c2, #313131);
+  background-image: linear-gradient(to bottom, #313131, #4848c2);
+}
+.nav-title-font {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+  margin-left: 2%;
+  color: white;
+}
+.nav-title-font:hover {
+  color: #FFAF32;
+}
+.margin-nav-menu {
+  margin-left: 75px;
+}
+.margin-font-nav-item {
+  margin-right: 15px;
+  color:white;
+}
+.margin-font-nav-item:hover {
+  margin-right: 15px;
+  color:#FFAF32;
+}
+.nv-align-right {
+  text-align: right;
+}
+
+.orange-font-nav-item {
+  margin-right: 15px;
+  color: #FFAF32;
+}
+.orange-font-nav-item:hover {
+  margin-right: 15px;
+  color: white;
+}
+
+.navbar-toggler {
+  background-color: white;
+  border:none;
+}
+
+.button-link-font {
+  text-decoration: none;
+   color: white;
+}
+.button-link-font:hover {
+   color: #FFAF32;
+}
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- BOX 1 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- */
+
+.box-align {
+  margin-top: 7%;
+  text-align: center;
+}
+
+.margin-heading {
+  margin-top: 3%;
+  margin-bottom: 6%;
+}
+
+.btn {
+  background: #4848c2;
+  background-image: -webkit-linear-gradient(top, #4848c2, #705270);
+  background-image: -moz-linear-gradient(top, #4848c2, #705270);
+  background-image: -ms-linear-gradient(top, #4848c2, #705270);
+  background-image: -o-linear-gradient(top, #4848c2, #705270);
+  background-image: linear-gradient(to bottom, #4848c2, #705270);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  text-shadow: 0px 0px 0px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: 'Dancing Script', cursive;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 2px 20px 2px 20px;
+  text-decoration: none;
+  margin: 4% 0;
+}
+.btn:hover {
+  color: #FFAF32;
+}
+
+.sleepika {
+  width: 70%;
+  height: auto;
+}
+
+.bg-data {
+  background-color: #FFAF32;
+  margin-top: 7%;
+}
+.no-padding-left {
+  padding-left: 0;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~ Register / Login ~~~~~~~~~~~~~~~~~~~~ */
+
+.purple-border {
+  border: solid #4848c2;
+}
+
+.create-title {
+  background-color:#4848c2;
+  color:#FFAF32;
+  padding:10px;
+  margin-top: 10px;
+}
+
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- BOX 2 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- */
+
+.sleepigirl {
+  width: 100%;
+  max-width: 1920px;
+  height: 100%;
+}
+
+.box-align2 {
+  margin-top: 6%;
+  text-align: center;
+}
+
+.h1-box2 {
+  color: black;
+  margin-bottom: 2%;
+}
+
+.box-hour-minute {
+  height: 45px;
+  width: 120px;
+  font-size:x-large;
+  color: #17202A ;
+  border-radius: 5px;
+  outline: none; 
+  border: none;
+  padding: 12px;
+  text-align: center;
+  margin-bottom: 2%
+}
+
+.btn-hour-minute {
+  margin-top: 6%;
+  margin-bottom: 10%;
+}
+
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- BOX 3 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- */
+
+.sleepigirl {
+  width: 100%;
+  max-width: 1920px;
+  height: 100%;
+}
+
+.box-align2 {
+  margin-top: 6%;
+  text-align: center;
+}
+
+.h1-box2 {
+  color: black;
+  margin-bottom: 2%;
+}
+
+.box-hour-minute {
+  height: 45px;
+  width: 120px;
+  font-size:x-large;
+  color: #17202A ;
+  border-radius: 5px;
+  outline: none; 
+  border: none;
+  padding: 12px;
+  text-align: center;
+  margin-bottom: 2%
+}
+
+.btn-hour-minute {
+  margin-top: 6%;
+  margin-bottom: 10%;
+}
+
+.box-date {
+  text-align: center;
+  color: #757575;
+}
+
+.wondering {
+  padding-left: 15vw;
+  padding-top: 25vh;
+}
+
+.bg-footer {
+  margin-bottom: 7%;
+}
+
+.chart-area {
+  position: relative;
+  height: 10rem;
+  width: 100%;
+}
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- Responsive -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- */
+
+@media (min-width: 768px) {
+  .chart-area {
+    height: 20rem;
+  }
+}
+
+.chart-bar {
+  position: relative;
+  height: 10rem;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .chart-bar {
+    height: 20rem;
+  }
+}
