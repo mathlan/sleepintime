@@ -1,2 +1,2 @@
 # sleepintime
-A website creating graphics according to user's data.
+A website creating graphics according to user's sleeping time data.
