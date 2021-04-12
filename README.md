@@ -1,7 +1,7 @@
 # sleepintime
 A website creating graphics according to user's sleeping time data.
 
-Please upload the given sql file on your own database in order to have the best user experience.
+Please upload the given sql file in your own database in order to have the best user experience.
 
 Enjoy!
 
